@@ -1,0 +1,5 @@
+﻿  Project1.cpp.cpp
+C:\Users\nikita\Desktop\Programming\Practice\01\C++\Project1.cpp\Project1.cpp\Project1.cpp.cpp(10,62): error C2065: a: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\01\C++\Project1.cpp\Project1.cpp\Project1.cpp.cpp(10,64): error C2065: a: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\01\C++\Project1.cpp\Project1.cpp\Project1.cpp.cpp(10,66): error C2065: a: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\01\C++\Project1.cpp\Project1.cpp\Project1.cpp.cpp(11,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

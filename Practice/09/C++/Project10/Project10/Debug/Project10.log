@@ -1,0 +1,4 @@
+﻿  Project10.cpp
+C:\Users\nikita\Desktop\Programming\Practice\09\C++\Project10\Project10\Project10.cpp(6,47): warning C4101: b2: неиспользованная локальная переменная
+C:\Users\nikita\Desktop\Programming\Practice\09\C++\Project10\Project10\Project10.cpp(6,43): warning C4101: b1: неиспользованная локальная переменная
+  Project10.vcxproj -> C:\Users\nikita\Desktop\Programming\Practice\09\C++\Project10\Debug\Project10.exe
