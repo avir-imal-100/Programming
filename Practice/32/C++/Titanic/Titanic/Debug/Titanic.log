@@ -1,0 +1,4 @@
+﻿  Titanic.cpp
+C:\Users\nikita\Desktop\Programming\Practice\32\C++\Titanic\Titanic\Titanic.cpp(119,18): warning C4244: =: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Users\nikita\Desktop\Programming\Practice\32\C++\Titanic\Titanic\Titanic.cpp(156,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Titanic.vcxproj -> C:\Users\nikita\Desktop\Programming\Practice\32\C++\Titanic\Debug\Titanic.exe

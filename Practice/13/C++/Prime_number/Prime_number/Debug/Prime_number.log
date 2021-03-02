@@ -1,0 +1,6 @@
+﻿  Prime_number.cpp
+C:\Users\nikita\Desktop\Programming\Practice\13\C++\Prime_number\Prime_number\Prime_number.cpp(23,2): error C2065: uint: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\13\C++\Prime_number\Prime_number\Prime_number.cpp(23,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "number"
+C:\Users\nikita\Desktop\Programming\Practice\13\C++\Prime_number\Prime_number\Prime_number.cpp(23,7): error C2065: number: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\13\C++\Prime_number\Prime_number\Prime_number.cpp(24,14): error C2065: number: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\13\C++\Prime_number\Prime_number\Prime_number.cpp(26,15): error C2065: number: необъявленный идентификатор

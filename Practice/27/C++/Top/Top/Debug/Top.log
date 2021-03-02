@@ -1,0 +1,20 @@
+﻿  Top.cpp
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(36,17): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "__VA_OPT__"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(37,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "__VA_OPT__"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(40,5): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "__VA_OPT__"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(40,5): error C2143: синтаксическая ошибка: отсутствие ")" перед "<<"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(40,5): error C3861: __VA_OPT__: идентификатор не найден
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(40,5): error C2059: синтаксическая ошибка: <<
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(40,5): error C2059: синтаксическая ошибка: )
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(46,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(57,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(58,1): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "__VA_OPT__"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(58,1): error C2143: синтаксическая ошибка: отсутствие ")" перед "<<"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(58,1): error C3861: __VA_OPT__: идентификатор не найден
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(58,1): error C2059: синтаксическая ошибка: <<
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(58,1): error C2059: синтаксическая ошибка: )
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(60,1): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "__VA_OPT__"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(60,1): error C2143: синтаксическая ошибка: отсутствие ")" перед "<<"
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(60,1): error C3861: __VA_OPT__: идентификатор не найден
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(60,1): error C2059: синтаксическая ошибка: <<
+C:\Users\nikita\Desktop\Programming\Practice\27\C++\Top\Top\Top.cpp(60,1): error C2059: синтаксическая ошибка: )

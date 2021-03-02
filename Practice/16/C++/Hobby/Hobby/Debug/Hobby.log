@@ -1,0 +1,11 @@
+﻿  Hobby.cpp
+  The contents of <string_view> are available only with C++17 or later.
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(6,10): error C2039: "string_view": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\iostream(19): message : см. объявление "std"
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(6,22): error C2065: string_view: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(6,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "str"
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(6,22): error C2065: str: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(15,9): error C2065: str: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(16,13): error C2065: str: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(16,37): error C2065: str: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\16\C++\Hobby\Hobby\Hobby.cpp(18,26): error C2065: str: необъявленный идентификатор

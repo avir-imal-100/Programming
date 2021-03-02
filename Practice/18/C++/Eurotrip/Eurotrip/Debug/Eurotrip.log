@@ -1,0 +1,13 @@
+﻿  Eurotrip.cpp
+  The contents of <string_view> are available only with C++17 or later.
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(22,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(25,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(43,7): error C2039: "string_view": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : см. объявление "std"
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(43,19): error C2065: string_view: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(43,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "word"
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(43,19): error C2065: word: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(44,36): error C2065: word: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(52,22): error C2065: word: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(54,15): error C2065: word: необъявленный идентификатор
+C:\Users\nikita\Desktop\Programming\Practice\18\C++\Eurotrip\Eurotrip\Eurotrip.cpp(66,32): error C2065: word: необъявленный идентификатор

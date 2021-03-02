@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Guess_number", "Guess_number\Guess_number.pyproj", "{09736966-0D7B-4BD8-8B40-7241BBFA8621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09736966-0D7B-4BD8-8B40-7241BBFA8621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09736966-0D7B-4BD8-8B40-7241BBFA8621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFD2BD7-3490-49D2-B3CD-B5E7CDFBAB1A}
+	EndGlobalSection
+EndGlobal

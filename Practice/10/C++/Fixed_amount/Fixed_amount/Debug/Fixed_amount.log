@@ -1,0 +1,6 @@
+﻿  Fixed_amount.cpp
+C:\Users\nikita\Desktop\Programming\Practice\10\C++\Fixed_amount\Fixed_amount\Fixed_amount.cpp(11,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\nikita\Desktop\Programming\Practice\10\C++\Fixed_amount\Fixed_amount\Fixed_amount.cpp(15,14): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\nikita\Desktop\Programming\Practice\10\C++\Fixed_amount\Fixed_amount\Fixed_amount.cpp(21,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\nikita\Desktop\Programming\Practice\10\C++\Fixed_amount\Fixed_amount\Fixed_amount.cpp(31,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Fixed_amount.vcxproj -> C:\Users\nikita\Desktop\Programming\Practice\10\C++\Fixed_amount\Debug\Fixed_amount.exe

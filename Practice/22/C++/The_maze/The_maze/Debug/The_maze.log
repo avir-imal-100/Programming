@@ -1,0 +1,4 @@
+﻿  The_maze.cpp
+C:\Users\nikita\Desktop\Programming\Practice\22\C++\The_maze\The_maze\The_maze.cpp(39,20): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\nikita\Desktop\Programming\Practice\22\C++\The_maze\The_maze\The_maze.cpp(40,17): warning C4018: >=: несоответствие типов со знаком и без знака
+  The_maze.vcxproj -> C:\Users\nikita\Desktop\Programming\Practice\22\C++\The_maze\Debug\The_maze.exe
